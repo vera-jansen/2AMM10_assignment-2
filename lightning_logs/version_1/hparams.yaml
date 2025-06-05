@@ -1,0 +1,6 @@
+cutoff: 1.5
+hidden_dim: 128
+lr: 0.0001
+num_atom_types: 10
+num_blocks: 4
+num_rbf: 32
