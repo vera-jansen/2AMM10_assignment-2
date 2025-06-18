@@ -1,0 +1,8 @@
+cutoff: 1.5
+hidden_dim: 256
+lr: 0.0001
+mu: 0.0
+num_atom_types: 5
+num_blocks: 5
+num_rbf: 300
+std: 1.0

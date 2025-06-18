@@ -1,0 +1,3 @@
+epoch,step,train_loss_denorm,train_loss_norm,val_loss_denorm,val_loss_norm
+0,0,,,378.53338623046875,3.5604982376098633
+0,0,705.2045288085938,6.6331787109375,,
